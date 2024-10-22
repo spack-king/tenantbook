@@ -1,2 +1,16 @@
 # tenantbook
-TenantBook is a powerful platform designed for homeowners to efficiently manage their rental properties and tenants. With features like automated rent collection, maintenance request tracking, and detailed tenant profiles, TenantBook streamlines property management tasks. Homeowners can easily communicate with tenants, monitor lease agreements, and access vital financial reports—all in one place. Whether you're managing a single unit or multiple properties, TenantBook simplifies the rental process, making it easier to maintain positive relationships with tenants and ensure smooth operations.
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
